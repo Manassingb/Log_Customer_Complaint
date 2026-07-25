@@ -2,7 +2,7 @@
   "name": "complaint-mgmt-frontend",
   "version": "1.0.0",
   "private": true,
-  "homepage": "/Log_Customer_Complaint",
+  
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "axios": "^1.7.7",
